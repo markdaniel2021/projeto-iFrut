@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-    <h1>iFrut Gastos Com Infraestrutura de Nuvem</h1>
+    <h1 className="text-primary">iFrut Gastos Com Infraestrutura de Nuvem</h1>
     </div>
   );
 }
